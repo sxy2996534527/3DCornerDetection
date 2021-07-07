@@ -9,7 +9,7 @@ https://github.com/yulequan/EC-Net
 
 ### configuration errors
 #### tensorflow2+ tf_ops compile error
-https://github.com/yuxng/DA-RNN/issues/16
+https://github.com/yuxng/DA-RNN/issues/16 //
 https://github.com/charlesq34/pointnet2/issues/48
 
 #### tensorflow.python.framework.errors_impl.NotFoundError ... undefined symbol: _ZTIN10tensorflow8OpKernelE
