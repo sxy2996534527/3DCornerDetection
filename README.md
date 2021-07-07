@@ -8,5 +8,8 @@ https://github.com/Yochengliu/awesome-point-cloud-analysis
 https://github.com/yulequan/EC-Net
 
 ### configuration errors
-## tensorflow2+ tf_ops compile error
+#### tensorflow2+ tf_ops compile error
 https://github.com/yuxng/DA-RNN/issues/16
+
+#### tensorflow.python.framework.errors_impl.NotFoundError ... undefined symbol: _ZTIN10tensorflow8OpKernelE
+https://github.com/charlesq34/pointnet2/issues/48
