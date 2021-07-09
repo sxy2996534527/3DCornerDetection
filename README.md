@@ -14,3 +14,6 @@ https://github.com/charlesq34/pointnet2/issues/48
 
 #### tensorflow.python.framework.errors_impl.NotFoundError ... undefined symbol: _ZTIN10tensorflow8OpKernelE
 https://github.com/charlesq34/pointnet2/issues/48
+
+### conda create virtual environment
+conda create -n tf-gpu13 tensorflow-gpu==1.3 cudatoolkit=8.0 python=2
