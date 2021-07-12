@@ -21,4 +21,6 @@ conda create -n tf-gpu13 tensorflow-gpu==1.3 cudatoolkit=8.0 python=2
 ### 3D multiview registration
 https://github.com/zgojcic/3D_multiview_reg
 
-
+### registration
+#### based on pcl
+https://github.com/SMRT-AIST/fast_gicp
