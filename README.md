@@ -24,3 +24,6 @@ https://github.com/zgojcic/3D_multiview_reg
 ### registration
 #### based on pcl
 https://github.com/SMRT-AIST/fast_gicp
+
+### eigen for transformation between quaternion, 6dof pose, transformation matrix
+https://blog.csdn.net/weicao1990/article/details/86148828/?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242#commentBox
